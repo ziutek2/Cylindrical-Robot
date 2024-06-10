@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Users\kuba2\OneDrive\Pulpit\projektROBOTcylindryczny\Cylindrical Robot\Cylindrical_Robot\Object.h(25,19): warning C4305: "inicjowanie": obcięcie z "double" do "const float"
+  (kompilowanie pliku źródłowego „main.cpp”)
+  
+  Cylindrical_Robot.vcxproj -> C:\Users\kuba2\OneDrive\Pulpit\projektROBOTcylindryczny\Cylindrical Robot\Cylindrical_Robot\x64\Debug\Cylindrical_Robot.exe
